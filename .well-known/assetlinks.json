@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.eitan.ourfamily",
+      "sha256_cert_fingerprints": ["D5:75:21:03:59:3F:E2:16:00:07:F7:34:E0:BF:2A:47:4C:00:FA:A4:D5:AF:FE:96:C8:DB:03:66:9D:D4:D0:12"]
+    }
+  }
+]
